@@ -1,0 +1,6 @@
+{
+  "name": "Singhania Industries",
+  "description": "Informational website for Singhania Industries, located in Jigani, Bangalore, Karnataka. Specializing in LPG spare parts manufacturing and industrial powder coating services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
